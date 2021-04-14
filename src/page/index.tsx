@@ -26,6 +26,7 @@ const menu = [
 
 export function PageFrame() {
     console.log('你好');
+    console.log(123);
     return (
         <>
             <NavBar
