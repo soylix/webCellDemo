@@ -25,6 +25,7 @@ const menu = [
 ];
 
 export function PageFrame() {
+    console.log(123);
     return (
         <>
             <NavBar
